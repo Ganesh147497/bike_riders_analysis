@@ -1,4 +1,4 @@
-                                                                       Bike Riders Performance Analytics 
+                                                              Bike Riders Performance Analytics 
 
 
 Project Architecture:
