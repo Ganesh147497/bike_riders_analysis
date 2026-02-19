@@ -4,9 +4,8 @@
 
 📌 Project Overview
 
-This project performs Descriptive Data Analysis on bike rider operational data to understand overall business performance, rider productivity, and financial trends.
-
-The objective of this analysis is to summarize historical ride data and extract meaningful insights using SQL and Power BI
+         This project performs Descriptive Data Analysis on bike rider operational data to understand overall business performance, rider productivity, and financial trends.
+         The objective of this analysis is to summarize historical ride data and extract meaningful insights using SQL and Power BI
   
 🛠 Tools & Technologies Used
          Microsoft Excel – Data Cleaning & Preparation
@@ -30,7 +29,7 @@ The objective of this analysis is to summarize historical ride data and extract 
           Total Records Analyzed: 76,500
 📊 Descriptive Analysis Performed
 
-This project focuses only on “What Happened?” type analysis.
+                      This project focuses only on “What Happened?” type analysis.
 
 1️⃣ Overall Performance Summary
 
