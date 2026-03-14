@@ -123,7 +123,7 @@ The `.pbix` file contains an interactive dashboard with:
 | Tool | Purpose |
 |---|---|
 | MySQL | Data storage & SQL analysis |
-| Microsoft Excel / Python | Data cleaning |
+| Microsoft Excel  | Data cleaning |
 | Power BI | Data visualization & dashboarding |
 
 ---
